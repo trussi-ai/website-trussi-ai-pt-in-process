@@ -39,8 +39,8 @@ After opting out, users receive one final confirmation message. They can opt bac
 ## Documentation Location
 
 The SMS opt-in/opt-out process is documented in:
-- Privacy Policy: `https://trussi.ai/privacy-policy`
-- Terms & Conditions: `https://trussi.ai/terms`
+- Privacy Policy: https://trussi.ai/privacy-policy
+- Terms & Conditions: https://trussi.ai/terms
 
 ## Compliance Notes
 
