@@ -5,17 +5,17 @@ This directory contains screenshots documenting trussi.ai's SMS opt-in process f
 ## Required Screenshots
 
 1. **Contact Form with SMS Consent**
-   - File: `contact-form-sms-consent.png`
+   - File: ![Contact Form with SMS Consent](./contact-form-sms-consent.png)
    - Description: Shows the contact form with the SMS consent checkbox
    - Purpose: Demonstrates clear opt-in mechanism for SMS communications
 
 2. **Form Submission Confirmation**
-   - File: `form-submission-confirmation.png`
+   - File: ![Form Submission Confirmation](./opt-in-screenshots:form-submission-confirmation.png)
    - Description: Shows the confirmation message after form submission
    - Purpose: Documents the immediate feedback provided to users after opting in
 
 3. **Welcome SMS Message**
-   - File: `welcome-sms.png`
+   - File: ![Welcome SMS Message](./welcome-sms.png)
    - Description: Shows the initial welcome SMS message sent to new subscribers
    - Purpose: Demonstrates the first communication and opt-out instructions
 
