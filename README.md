@@ -1,6 +1,6 @@
 # SMS Opt-in Process Documentation
 
-This directory contains screenshots documenting Trussi.Ai's SMS opt-in process for Twilio campaign compliance.
+This directory contains screenshots documenting trussi.ai's SMS opt-in process for Twilio campaign compliance.
 
 ## Required Screenshots
 
@@ -31,7 +31,7 @@ This directory contains screenshots documenting Trussi.Ai's SMS opt-in process f
 
 Users can opt out of SMS communications in three ways:
 1. Reply "STOP" to any SMS message
-2. Contact support at support@Trussi.Ai
+2. Contact support at admin@trussi.ai
 3. Update preferences in account settings
 
 After opting out, users receive one final confirmation message. They can opt back in at any time through their account settings or by contacting support.
@@ -39,8 +39,8 @@ After opting out, users receive one final confirmation message. They can opt bac
 ## Documentation Location
 
 The SMS opt-in/opt-out process is documented in:
-- Privacy Policy: `src/routes/(inner)/privacy-policy/+page.svelte`
-- Terms & Conditions: `src/routes/(inner)/terms/+page.svelte`
+- Privacy Policy: `https://trussi.ai/privacy-policy`
+- Terms & Conditions: `https://trussi.ai/terms`
 
 ## Compliance Notes
 
